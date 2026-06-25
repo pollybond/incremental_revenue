@@ -1,7 +1,7 @@
-# Offline Uplift System
+# Uplift System
 ## Causal ML Framework for Incremental Revenue Estimation
 
-Offline Uplift System — framework для оценки инкрементальной выручки
+Uplift System — framework для оценки инкрементальной выручки
 от маркетинговых механик в условиях observational data
 (без проведения A/B тестов).
 
